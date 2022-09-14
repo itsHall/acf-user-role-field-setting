@@ -2,10 +2,10 @@
 	
 	/* 
 		Plugin Name: ACF User Role Field Setting
-		Plugin URI: https://wordpress.org/plugins/user-role-field-setting-for-acf/
+		Plugin URI: 
 		Description: Set user types that should be allowed to edit fields
-		Version: 4.0.0
-		Author: John A. Huebner II
+		Version: 4.0.1
+		Author: Tyler Hall (forked from John A. Huebner II's work)
 		Author URI: https://github.com/Hube2/
 		License: GPL
 	*/
